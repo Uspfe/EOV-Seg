@@ -46,4 +46,6 @@ _darcs
 !/datasets/*.*
 /projects/*/datasets
 /models
-/snippet
+/snippet# pixi environments
+.pixi/*
+!.pixi/config.toml
